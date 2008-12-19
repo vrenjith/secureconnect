@@ -1,0 +1,10 @@
+#summary Product Backlog
+
+= Introduction =
+
+The current product backlog for the project is given below. I am yet to find out how to dynamically manage this.
+
+= Details =
+Detailed will be added soon by Pradeep
+
+<wiki:gadget url="http://www.ohloh.net/p/gwt/widgets/project_languages.xml" width="340" height="200" border="1" />
