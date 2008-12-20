@@ -6,4 +6,20 @@ The below links will help you to get used the technologies planned to be used in
 
 = Links =
 
+== Java Server Faces ==
+http://web.princeton.edu/sites/isapps/jasig/2004summerWestminster/Presentations/java%20server%20faces.pdf
+
+http://web.princeton.edu/sites/isapps/jasig/2004summerWestminster/Presentations/java%20server%20faces.pdf
+
 http://www.devshed.com/index2.php?option=content&task=view&id=373&pop=1&hide_ads=1&page=0&hide_js=1
+
+== Java Enterprise Beans ==
+http://www.slideshare.net/fdiotalevi/enterprise-java-beans-30
+http://en.wikipedia.org/wiki/Enterprise_JavaBean
+
+== Ajax ==
+http://www.w3schools.com/Ajax/ajax_intro.asp
+http://www.netbeans.org/kb/docs/web/ajax-quickstart.html
+
+
+== Java Applets ==
