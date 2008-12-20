@@ -6,8 +6,8 @@ Scrum details below
 
 = Scrum =
 
-Since this development activity should not disturb the normal project work, the only possibility is use after office hours and weekens. The following are the possibilities
-  * Team members have to commit for at least a month commitment to this project
+Since this development activity should not disturb the normal project work, the only possibility is to do this after office hours and weekends. The following are the possibilities
+  * Those who are volunteering should commit for a minimum of one month to this project
   * The work should happen during weekends and after office hours
   * Daily Stand-up may be not feasible, so two times a week can be followed
   * There needs to be a Friday evening stand up to gear up for the weekend.
