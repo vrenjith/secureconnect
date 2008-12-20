@@ -5,4 +5,4 @@
 The current product backlog for the project is given below. I am yet to find out how to dynamically manage this.
 
 = Details =
-Details will be added soon by Pradeep
+Details will be added soon.
