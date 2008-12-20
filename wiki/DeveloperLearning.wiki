@@ -15,8 +15,10 @@ http://www.devshed.com/index2.php?option=content&task=view&id=373&pop=1&hide_ads
 
 == Java Enterprise Beans ==
 http://www.slideshare.net/fdiotalevi/enterprise-java-beans-30
+
 http://en.wikipedia.org/wiki/Enterprise_JavaBean
 
 == Ajax ==
 http://www.w3schools.com/Ajax/ajax_intro.asp
+
 http://www.netbeans.org/kb/docs/web/ajax-quickstart.html
