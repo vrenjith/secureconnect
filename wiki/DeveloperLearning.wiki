@@ -1,0 +1,9 @@
+#summary Resources for the project members
+
+= Introduction =
+
+The below links will help you to get used the technologies planned to be used in this project
+
+= Links =
+
+http://www.devshed.com/index2.php?option=content&task=view&id=373&pop=1&hide_ads=1&page=0&hide_js=1
