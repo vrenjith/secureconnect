@@ -1,0 +1,16 @@
+#summary Technologies planning to be used
+
+= Introduction =
+
+The following may be used for developing this software
+
+
+= Technologies =
+
+  * Core Java
+  * JSF (may be Struts also), JSP
+  * Ajax
+  * Java Applet
+  * Web/Application Server (Glassfish or Apache)
+  * Netbeans or Eclipse IDE
+  * TDD (if possible)
