@@ -5,8 +5,7 @@
 The user inferface should more of less like the following
 
 == The Main Window ==
-
-http://code.google.com/p/secureconnect/source/browse/trunk/mainpage.jpg
+<img src="http://secureconnect.googlecode.com/svn/trunk/mainpage.jpg" alt="Main Window" />
 
 == New Connection ==
-http://code.google.com/p/secureconnect/source/browse/trunk/newssh.jpg
+<img src="http://secureconnect.googlecode.com/svn/trunk/newssh.jpg" alt="New Ssh" />
