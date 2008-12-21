@@ -1,0 +1,12 @@
+#summary User Interface Design
+
+= Introduction =
+
+The user inferface should more of less like the following
+
+== The Main Window ==
+
+http://code.google.com/p/secureconnect/source/browse/trunk/mainpage.jpg
+
+== New Connection ==
+http://code.google.com/p/secureconnect/source/browse/trunk/newssh.jpg
