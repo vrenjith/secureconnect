@@ -15,12 +15,12 @@ The current product backlog for the project is given below. I am yet to find out
 ||7||I would like to have a favorite section in the window to collect the most used nodes||||
 ||8||As an admin user I should be able to login and add others as administators||||
 ||9||As user I should be able to get a report of all the connected users||||
-||10||"As an user I should be able generate usage reports|| per user|| per activity|| duration"||||
+||10||"As an user I should be able generate usage reports, per user, per activity, duration"||||
 ||11||As an admin user I should be able to force close sessions and release the node||4||
 ||12||As an user I should be able to connect to the system either exclusively or shared||6||
 ||13||As an user I should be able to set the connecton preference in my user preferences||||
 ||14||As an user I should be able to log the consoles actions and output to a local file.||||
 ||15||As an user I should be able to chat with the other active users of the node ||10||
 ||16||As an user I should be able to see the current active users of the a node in a separate window so as to initiate may be chat action||7||
-||17||"As an user I should be able to see the status of the other active user for a node|| whether they are idle or the ssh/telnet is active"||8||
+||17||"As an user I should be able to see the status of the other active user for a node, whether they are idle or the ssh/telnet is active"||8||
 ||18||As an admin I would like to restrict the access to other machines via ssh and telnet from the webshell||||
