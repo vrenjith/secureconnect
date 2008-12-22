@@ -5,7 +5,7 @@
 The current product backlog for the project is given below. I am yet to find out how to dynamically manage this.
 
 = Details =
-||Sl No.||Userstory||Rank||
+||*Sl No.*||*Userstory*||*Rank*||
 ||1||I need to login to the website using my nsn-intra id||1||
 ||2||I need to see the list of machines that are available in the testbed in a hierarchical manner||3||
 ||3||I need to connect to the system I choose via ssh or telnet to get something called webshell||2||
