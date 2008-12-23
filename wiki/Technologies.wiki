@@ -5,16 +5,16 @@
 The following may be used for developing this software
 
 
-= Technologies =
+== Technologies ==
 
   * Core Java
   * JSF (may be Struts also), JSP
   * Ajax
   * Java Applet
 
-= Environment
+== Environment ==
   * Web/Application Server (Glassfish or Apache)
   * Netbeans or Eclipse IDE
 
-= Methodologies =
+== Methodologies ==
   * TDD (if possible)
