@@ -11,6 +11,10 @@ The following may be used for developing this software
   * JSF (may be Struts also), JSP
   * Ajax
   * Java Applet
+
+= Environment
   * Web/Application Server (Glassfish or Apache)
   * Netbeans or Eclipse IDE
+
+= Methodologies =
   * TDD (if possible)
